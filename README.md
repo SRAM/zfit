@@ -33,7 +33,7 @@ File descriptions:
 
 | ./README                      | this file                                    |
 | ./LICENSE                     | ISC License, like heatshrink itself          |
-| ./zfit.pdf                    | algorithm documenatation 		       |
+| ./zfit.pdf                    | algorithm documenatation 		                 |
 | ./Makefile                    | Makes both static and dynamic variants       |
 | ./heatshrink                  | git pull of heatshrink source                |
 | ./static                      | statically-allocated variant.  Encoder only. |
